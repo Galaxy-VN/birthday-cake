@@ -62,7 +62,7 @@ const steps = [
 const sharedSteps = [
   {
     target: "#start",
-    content: "Click here",
+    content: "Ấn vào đây",
     placement: "top",
     disableBeacon: true,
   },
