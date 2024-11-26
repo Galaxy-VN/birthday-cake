@@ -43,7 +43,7 @@ const steps = [
   },
   {
     target: "#stop",
-    content: "Press stop if you want to cancel temporarily.",
+    content: "Nhấn stop if you want to cancel temporarily.",
     placement: "top",
   },
   {
