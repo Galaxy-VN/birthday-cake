@@ -51,8 +51,8 @@ export const Name: React.FC<React.HTMLProps<HTMLInputElement> & InputProps> =
             {...{
               ref,
               style: {
-                fontFamily: "Dancing_Script", // Montserrat
-                fontWeight: "bold",
+                fontFamily: "Sevillana", // Montserrat
+                fontWeight: "400",
                 fontSize: "2rem",
                 color: "#f0e4d0",
                 opacity: 0.9,
